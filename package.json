@@ -9,18 +9,48 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^42.0.2",
+    "@ckeditor/ckeditor5-react": "^8.0.0",
+    "@heroicons/react": "^1.0.6",
+    "@material-tailwind/react": "^2.1.9",
+    "@radix-ui/react-label": "^2.1.0",
+    "@supabase/supabase-js": "^2.44.4",
+    "@tabler/icons-react": "^3.11.0",
+    "@types/axios": "^0.14.0",
+    "@types/bcrypt": "^5.0.2",
+    "@types/jwt-decode": "^3.1.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "clsx": "^2.1.1",
+    "formidable": "^3.5.1",
+    "framer-motion": "^11.3.17",
+    "heroicons-react": "^1.4.1",
+    "jsonwebtoken": "^9.0.2",
+    "jwt-decode": "^4.0.0",
+    "multer": "^1.4.3",
+    "mysql2": "^3.10.3",
+    "next": "14.2.5",
+    "next-connect": "^1.0.0-next.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-icons": "^5.2.1",
+    "sweetalert2": "^11.12.3",
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/formidable": "^3.4.5",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/multer": "^1.4.3",
+    "@types/mysql": "^2.15.26",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "prisma": "^5.17.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
